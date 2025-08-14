@@ -83,12 +83,6 @@
   <a href="https://app.daily.dev/alfredoputraprastama"><img src="Image/alfredoputraprastama.png" width="235" alt="pow's Dev Card"/></a>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Al0804/Al0804/output pacman-contribution-graph-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Al0804/Al0804/output/pacman-contribution-graph.svg"><img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Al0804/Al0804/output/pacman-contribution-graph.svg"></picture>
-
-###
 
 ###
 
