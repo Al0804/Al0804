@@ -8,9 +8,13 @@
 
 <img src="Image/Vanitas.gif" width="900">
 
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Al0804.Al0804&"  />
 </div>
+
+###
 
 <div align="left">
   <a href="https://instagram.com/alfredopp05" target="_blank">
