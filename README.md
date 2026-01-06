@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">✨ Menciptakan bug sejak menjadi mahasiswa UBSI<br>📚 Sedang mempelajari Informatika – Fakultas Teknik & Informatika<br>🎯 Tujuan: Menjadi Front-End Developer & Web Developer yang andal<br>🎲 Fakta unik: Suka ngoprek kode sampai lupa waktu ☕💻</p>
+<p align="left">✨ Menciptakan bug sejak menjadi mahasiswa UBSI<br>📚 Sedang mempelajari Informatika – Fakultas Teknik & Informatika<br>🎯 Tujuan: Menjadi Tech Boy Yang dapat bermanfaat untuk banyak orang<br>🎲 Fakta unik: Suka ngoprek kode sampai lupa waktu ☕💻</p>
 
 ###
 
@@ -78,12 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Al0804&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Al0804&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
