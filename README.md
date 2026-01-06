@@ -46,7 +46,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
-<h2 align="left">Beberapa teknologi web dan bahasa untuk pengembangan front-end yang sedang ku dalamin</h2>
+<h2 align="left">Tech Yang Kugunakan</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
@@ -79,15 +79,6 @@
 </div>
 
 
-###
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-<h2 align="left">Gambaran statistik ku dalam belajar membuat project</h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Al0804&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
